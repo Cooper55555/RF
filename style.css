@@ -846,6 +846,10 @@ body.dark-mode .card:hover {
     display: none;
   }
 
+  .logo-text img {
+    display: none;
+}
+
   .dark-mode .navbar-links button {
     color: #eee;
   }
