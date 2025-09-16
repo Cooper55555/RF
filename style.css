@@ -854,10 +854,6 @@ body.dark-mode .card:hover {
     display: none;
   }
 
-  .logo-text img {
-    display: none;
-}
-
   .dark-mode .navbar-links button {
     color: #eee;
   }
@@ -1037,6 +1033,12 @@ body.dark-mode .card:hover {
   font-weight: 600;
   margin: 0px !important;
   color: var(--text-dark);
+}
+
+@media (max-width: 1200px) {
+  .logo-text img {
+    display: none;
+}
 }
 
 .dark-mode .main-title {
