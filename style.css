@@ -474,6 +474,14 @@ body.dark-mode .modal-content {
   background: linear-gradient(135deg, #131415 0%, #2a2e2f 100%);
 }
 
+.social-button.youtube {
+  background: linear-gradient(135deg, #f25858 0%, #c44747 100%);
+}
+
+.social-button.twitch {
+  background: linear-gradient(135deg, #b60ddc 0%, #a610d3 100%);
+}
+
 h1 {
   text-align: center;
   margin-top: 30px;
